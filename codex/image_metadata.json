@@ -1,17 +1,30 @@
 [
   {
-    "filename": "biome_winter_001.jpg",
-    "season": "winter",
-    "role": "Biome Background",
-    "location": "images/biome/winter/",
-    "timestamp": "2025-08-21T15:46:00-08:00",
-    "override": "morph_seed_winter"
+    "filename": "biome_spring_001.jpg",
+    "biome": "spring",
+    "location": "Alaska",
+    "timestamp": "2025-08-21T15:50:00-08:00",
+    "source": "Keli Voigt — Sovereign Archive"
   },
   {
-    "filename": "wolf_idle_001.png",
-    "role": "Wolf Idle Frame",
-    "location": "images/wolves/",
-    "timestamp": "2025-08-21T15:46:00-08:00",
-    "override": "npc_idle_ash"
+    "filename": "biome_spring_002.jpg",
+    "biome": "spring",
+    "location": "Alaska",
+    "timestamp": "2025-08-21T15:51:00-08:00",
+    "source": "Keli Voigt — Sovereign Archive"
+  },
+  {
+    "filename": "biome_summer_001.jpg",
+    "biome": "summer",
+    "location": "Alaska",
+    "timestamp": "2025-08-21T15:52:00-08:00",
+    "source": "Keli Voigt — Sovereign Archive"
+  },
+  {
+    "filename": "biome_summer_002.jpg",
+    "biome": "summer",
+    "location": "Alaska",
+    "timestamp": "2025-08-21T15:53:00-08:00",
+    "source": "Keli Voigt — Sovereign Archive"
   }
 ]
