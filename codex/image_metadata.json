@@ -1,0 +1,17 @@
+[
+  {
+    "filename": "biome_winter_001.jpg",
+    "season": "winter",
+    "role": "Biome Background",
+    "location": "images/biome/winter/",
+    "timestamp": "2025-08-21T15:46:00-08:00",
+    "override": "morph_seed_winter"
+  },
+  {
+    "filename": "wolf_idle_001.png",
+    "role": "Wolf Idle Frame",
+    "location": "images/wolves/",
+    "timestamp": "2025-08-21T15:46:00-08:00",
+    "override": "npc_idle_ash"
+  }
+]
