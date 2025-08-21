@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alaska Wolf: Survival Apex</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <!-- 🌲 Biome Background -->
+  <div id="biome-container">
+    <img id="biome-image" src="images/biome/winter/biome_winter_001.jpg" alt="Alaska Biome">
+  </div>
+
+  <!-- 🐺 Wolf Frame -->
+  <div id="wolf-container">
+    <img id="wolf-image" src="images/wolves/wolf_idle_001.png" alt="Wolf Idle">
+  </div>
+
+  <!-- 🔁 Season Morph Controls -->
+  <div id="season-controls">
+    <button onclick="morphBiome('winter')">Winter</button>
+    <button onclick="morphBiome('spring')">Spring</button>
+    <button onclick="morphBiome('summer')">Summer</button>
+    <button onclick="morphBiome('fall')">Fall</button>
+  </div>
+
+  <!-- 🧬 Life System Scripts -->
+  <script src="scripts/morph.js"></script>
+  <script src="scripts/life.js"></script>
+</body>
+</html>
